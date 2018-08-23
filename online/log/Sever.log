@@ -1,0 +1,172 @@
+2018-08-23 23:26:56,670 [INFO] [./src/MainServer.cc:start:40]Server Startd
+2018-08-23 23:28:03,831 [INFO] [./src/MainServer.cc:start:40]Server Startd
+2018-08-23 23:28:42,907 [INFO] [./src/MainServer.cc:start:40]Server Startd
+2018-08-23 23:31:11,990 [INFO] [./src/MainServer.cc:start:40]Server Startd
+2018-08-23 23:31:11,991 [INFO] [./src/CacheManager.cc:initCache:17]The main Cache was initialize.
+2018-08-23 23:31:11,991 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-08-23 23:31:11,991 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-08-23 23:31:11,991 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-08-23 23:31:11,991 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-08-23 23:31:30,820 [INFO] [./src/MainServer.cc:onConnection:20]192.168.227.128:5080 -> 192.168.227.128:44044 The link was established.
+2018-08-23 23:31:30,821 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-23 23:31:40,045 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-23 23:31:40,059 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-23 23:31:54,166 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-23 23:31:54,177 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-23 23:32:08,415 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-23 23:32:08,423 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-23 23:32:17,373 [INFO] [./src/MainServer.cc:onClose:34]192.168.227.128:5080 -> 192.168.227.128:44044 close.
+2018-08-23 23:32:34,693 [INFO] [./src/MainServer.cc:onConnection:20]192.168.227.128:5080 -> 192.168.227.128:44050 The link was established.
+2018-08-23 23:32:34,694 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-23 23:32:47,450 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-23 23:32:47,461 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-23 23:33:14,275 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-23 23:33:14,294 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-23 23:34:25,723 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-23 23:34:25,732 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-23 23:34:59,175 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-23 23:34:59,184 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-23 23:35:26,895 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-23 23:35:26,901 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-23 23:35:43,180 [INFO] [./src/MainServer.cc:onClose:34]192.168.227.128:5080 -> 192.168.227.128:44050 close.
+2018-08-23 23:40:00,366 [INFO] [./src/MainServer.cc:start:40]Server Startd
+2018-08-23 23:40:00,366 [INFO] [./src/CacheManager.cc:initCache:17]The main Cache was initialize.
+2018-08-23 23:40:00,366 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-08-23 23:40:00,367 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-08-23 23:40:00,367 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-08-23 23:40:00,367 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-08-23 23:40:03,227 [INFO] [./src/MainServer.cc:onConnection:20]192.168.227.128:5080 -> 192.168.227.128:44094 The link was established.
+2018-08-23 23:40:03,228 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-23 23:40:14,959 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-23 23:40:14,972 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-23 23:40:25,168 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-23 23:40:25,180 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-23 23:40:49,309 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-23 23:40:49,320 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-23 23:41:12,394 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-23 23:41:12,405 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-23 23:41:34,566 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-23 23:41:34,573 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-23 23:42:07,088 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-23 23:42:07,103 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-23 23:43:17,888 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-23 23:43:17,897 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-23 23:43:44,105 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-23 23:43:44,122 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-23 23:44:10,722 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-23 23:44:10,748 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-23 23:44:34,347 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-23 23:44:34,356 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-23 23:44:57,887 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-23 23:44:57,905 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-23 23:45:04,279 [INFO] [./src/MainServer.cc:onClose:34]192.168.227.128:5080 -> 192.168.227.128:44094 close.
+2018-08-23 23:45:25,101 [INFO] [./src/MainServer.cc:onConnection:20]192.168.227.128:5080 -> 192.168.227.128:44106 The link was established.
+2018-08-23 23:45:25,102 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-23 23:45:35,139 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-23 23:45:35,154 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-23 23:45:42,597 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-23 23:45:42,611 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-23 23:45:59,165 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-23 23:45:59,176 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-23 23:46:28,829 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-23 23:46:28,839 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-23 23:46:56,323 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-23 23:46:56,332 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-23 23:47:15,257 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-23 23:47:15,266 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-24 00:06:02,730 [INFO] [./src/MainServer.cc:start:40]Server Startd
+2018-08-24 00:06:02,730 [INFO] [./src/CacheManager.cc:initCache:17]The main Cache was initialize.
+2018-08-24 00:06:02,731 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-08-24 00:06:02,731 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-08-24 00:06:02,732 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-08-24 00:06:02,732 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-08-24 00:06:05,962 [INFO] [./src/MainServer.cc:onConnection:20]192.168.227.128:5080 -> 192.168.227.128:44202 The link was established.
+2018-08-24 00:06:05,963 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-24 00:06:13,304 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-24 00:06:13,318 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-24 00:06:42,786 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-24 00:06:42,806 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-24 00:07:02,807 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-24 00:07:02,813 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-24 00:07:22,869 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-24 00:07:22,881 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-24 00:07:35,259 [INFO] [./src/MainServer.cc:onClose:34]192.168.227.128:5080 -> 192.168.227.128:44202 close.
+2018-08-24 00:14:14,321 [INFO] [./src/MainServer.cc:start:40]Server Startd
+2018-08-24 00:14:14,322 [INFO] [./src/CacheManager.cc:initCache:17]The main Cache was initialize.
+2018-08-24 00:14:14,322 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-08-24 00:14:14,323 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-08-24 00:14:14,323 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-08-24 00:14:14,323 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-08-24 00:14:28,723 [INFO] [./src/MainServer.cc:onConnection:20]192.168.227.128:5080 -> 192.168.227.128:44294 The link was established.
+2018-08-24 00:14:28,723 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-24 00:14:36,902 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-24 00:14:36,907 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-24 00:19:35,251 [INFO] [./src/MainServer.cc:start:40]Server Startd
+2018-08-24 00:19:35,251 [INFO] [./src/CacheManager.cc:initCache:17]The main Cache was initialize.
+2018-08-24 00:19:35,252 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-08-24 00:19:35,252 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-08-24 00:19:35,252 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-08-24 00:19:35,252 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-08-24 00:19:46,534 [INFO] [./src/MainServer.cc:onConnection:20]192.168.227.128:5080 -> 192.168.227.128:44348 The link was established.
+2018-08-24 00:19:46,535 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-24 00:19:55,907 [INFO] [./src/MainServer.cc:onClose:34]192.168.227.128:5080 -> 192.168.227.128:44348 close.
+2018-08-24 00:19:59,593 [INFO] [./src/MainServer.cc:onConnection:20]192.168.227.128:5080 -> 192.168.227.128:44352 The link was established.
+2018-08-24 00:19:59,594 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-24 00:20:06,424 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-24 00:20:06,439 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-24 00:20:20,457 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-24 00:20:20,471 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-24 00:20:45,098 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-24 00:20:45,110 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-24 00:21:09,790 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-24 00:21:09,800 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-24 00:21:40,069 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-24 00:21:40,077 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-24 00:21:55,352 [INFO] [./src/MainServer.cc:onClose:34]192.168.227.128:5080 -> 192.168.227.128:44352 close.
+2018-08-24 00:26:04,573 [INFO] [./src/MainServer.cc:start:40]Server Startd
+2018-08-24 00:26:04,574 [INFO] [./src/CacheManager.cc:initCache:17]The main Cache was initialize.
+2018-08-24 00:26:04,575 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-08-24 00:26:04,575 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-08-24 00:26:04,576 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-08-24 00:26:04,576 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-08-24 00:26:07,784 [INFO] [./src/MainServer.cc:onConnection:20]192.168.227.128:5080 -> 192.168.227.128:44390 The link was established.
+2018-08-24 00:26:07,785 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-24 00:26:17,521 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-24 00:26:17,528 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-24 00:26:27,845 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-24 00:26:27,858 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-24 00:28:57,054 [INFO] [./src/MainServer.cc:start:40]Server Startd
+2018-08-24 00:28:57,055 [INFO] [./src/CacheManager.cc:initCache:17]The main Cache was initialize.
+2018-08-24 00:28:57,055 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-08-24 00:29:06,353 [INFO] [./src/MainServer.cc:onConnection:20]192.168.227.128:5080 -> 192.168.227.128:44430 The link was established.
+2018-08-24 00:29:06,354 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-24 00:29:14,211 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-24 00:29:14,220 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-24 00:29:21,342 [WARN] [./src/CacheManager.cc:getCache:30]A new Cache create.
+2018-08-24 00:29:21,358 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-24 00:38:28,281 [INFO] [./src/MainServer.cc:start:40]Server Startd
+2018-08-24 00:38:28,281 [INFO] [./src/CacheManager.cc:initCache:17]The main Cache was initialize.
+2018-08-24 00:38:28,281 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-08-24 00:38:36,880 [INFO] [./src/MainServer.cc:onConnection:20]192.168.227.128:5080 -> 192.168.227.128:44492 The link was established.
+2018-08-24 00:38:36,881 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-24 00:38:45,529 [WARN] [./src/CacheManager.cc:getCache:36]A new Cache create.
+2018-08-24 00:38:45,535 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-24 00:39:07,297 [WARN] [./src/CacheManager.cc:getCache:36]A new Cache create.
+2018-08-24 00:39:07,303 [WARN] [./src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-08-24 00:39:13,709 [INFO] [./src/MainServer.cc:onClose:34]192.168.227.128:5080 -> 192.168.227.128:44492 close.
+2018-08-24 01:00:34,942 [INFO] [./src/MainServer.cc:start:40]Server Startd
+2018-08-24 01:00:34,943 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-08-24 01:00:39,713 [INFO] [./src/MainServer.cc:onConnection:20]192.168.227.128:5080 -> 192.168.227.128:44608 The link was established.
+2018-08-24 01:02:40,034 [INFO] [./src/MainServer.cc:onClose:34]192.168.227.128:5080 -> 192.168.227.128:44608 close.
+2018-08-24 01:02:43,316 [INFO] [./src/MainServer.cc:onConnection:20]192.168.227.128:5080 -> 192.168.227.128:44612 The link was established.
+2018-08-24 01:04:01,265 [INFO] [./src/MainServer.cc:onClose:34]192.168.227.128:5080 -> 192.168.227.128:44612 close.
+2018-08-24 01:05:19,862 [INFO] [./src/MainServer.cc:onConnection:20]192.168.227.128:5080 -> 192.168.227.128:44638 The link was established.
+2018-08-24 01:07:16,812 [INFO] [./src/MainServer.cc:onClose:34]192.168.227.128:5080 -> 192.168.227.128:44638 close.
+2018-08-24 01:08:28,746 [INFO] [./src/MainServer.cc:onConnection:20]192.168.227.128:5080 -> 192.168.227.128:44658 The link was established.
+2018-08-24 01:09:36,444 [INFO] [./src/MainServer.cc:onClose:34]192.168.227.128:5080 -> 192.168.227.128:44658 close.
+2018-08-24 01:09:38,951 [INFO] [./src/MainServer.cc:onConnection:20]192.168.227.128:5080 -> 192.168.227.128:44662 The link was established.
+2018-08-24 01:11:22,145 [INFO] [./src/MainServer.cc:onClose:34]192.168.227.128:5080 -> 192.168.227.128:44662 close.
+2018-08-24 01:14:19,949 [INFO] [./src/MainServer.cc:onConnection:20]192.168.227.128:5080 -> 192.168.227.128:44686 The link was established.
+2018-08-24 01:16:08,314 [INFO] [./src/MainServer.cc:onClose:34]192.168.227.128:5080 -> 192.168.227.128:44686 close.
+2018-08-24 01:16:27,946 [INFO] [./src/MainServer.cc:onConnection:20]192.168.227.128:5080 -> 192.168.227.128:44706 The link was established.
+2018-08-24 01:17:37,904 [INFO] [./src/MainServer.cc:onClose:34]192.168.227.128:5080 -> 192.168.227.128:44706 close.
